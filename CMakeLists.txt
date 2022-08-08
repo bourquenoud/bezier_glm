@@ -15,7 +15,7 @@ include_directories(include)
 include_directories(test/third-party)
 
 # Dependencies
-include_directories(/usr/local/include/eigen3/)
+include_directories(/usr/include/eigen3/)
 
 # Bezier library
 set(SOURCE_FILES
